@@ -23,6 +23,8 @@ tags:
 ### Question 2 Upload self github Project ，如何正常加载成功？
 		当图片也存好了，也上传到了咱们的目录下，打开blog后依然失败 例如页面如下提示：
 ---
+
+
 ![error_img](https://github.com/Wang-Sire/wang-sire.github.io/raw/master/img/img_Error_2023-09-19_13.32.45.png)
 
 ---
@@ -31,6 +33,8 @@ tags:
 		可能是黄色⚠️ 或者 红色 提示 Cross跨域问题，就是本该在一个img信息插入了一个Html调用就会出现
 		这种情况我吧 我本来的blob 修改为 raw 就解决了
 ---
+
+
 ![error_img](https://github.com/Wang-Sire/wang-sire.github.io/raw/master/img/cross_question_023-09-19_13.55.49.png)
 
 
