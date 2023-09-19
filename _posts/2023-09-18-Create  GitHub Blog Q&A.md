@@ -6,8 +6,6 @@ categories: 思考我自己  十年后的我
 tags:
     - GitHub Blog
     - Image
-
-    
 ---
 ### Project  Description：
 	创建自己的github blog ,这个事最早要从2019年说起，等哪天有空了我写个随笔记上去，现在在公司Working 中；今天主要登记的问题是：
@@ -24,7 +22,10 @@ tags:
 
 ### Question 2 Upload self github Project ，如何正常加载成功？
 		当图片也存好了，也上传到了咱们的目录下，打开blog后依然失败 例如页面如下提示：
-		![error_img](https://github.com/Wang-Sire/wang-sire.github.io/raw/master/img/img_Error_2023-09-19%2013.32.45.png)
+---
+![error_img](https://github.com/Wang-Sire/wang-sire.github.io/raw/master/img/img_Error_2023-09-19%2013.32.45.png)
+---
+###  控制台问题：
 		控制台提示：
 		![error_img](https://github.com/Wang-Sire/wang-sire.github.io/raw/master/img/cross_question_023-09-19%2013.55.49.png)
 		可能是黄色⚠️ 或者 红色 提示 Cross跨域问题，就是本该在一个img信息插入了一个Html调用就会出现
@@ -35,47 +36,3 @@ tags:
 
 
 
-
-
-![img/avatar_g.jpg]
-
-![Cow1](https://github.com/Yuleii/Yuleii.github.io/raw/master/pictures/20210123/2_bootstrap_algorithm.jpg)
-![Picture](https://github.com/Wang-Sire/wang-sire.github.io/raw/master/img/IMG_1562.JPG)
-
-
-
-
-```python
-class  MyThink1():
-    
-
-    pass
-
-
-```
-
-
-
-<h3> 当下自己的状态是自己喜欢的吗？</h3>
-
-```python
-
-Click 【鼠标点击组件】 
-Type_info【文本输入组件】  
-
-
-
-```
-
-
-<h3> 10年后的我在干什么？现在的我对十年后的我帮助很大吗？</h3>
-
-
-```python
-
-Click 【鼠标点击组件】 
-Type_info【文本输入组件】  
-
-
-
-```
